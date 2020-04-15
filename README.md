@@ -7,4 +7,4 @@ It not look alike much but i undestand all the code behind it and enable to writ
 
 :heart_eyes::heart_eyes::heart_eyes::heart_eyes:
 
-![result screen 1]() ![result screen 2]()
+![result screen 1](https://github.com/RioRocker97/BMI_Calculator/blob/master/1.PNG) ![result screen 2](https://github.com/RioRocker97/BMI_Calculator/blob/master/2.PNG)
